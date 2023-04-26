@@ -1,0 +1,43 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TEST1,,,,2022-05-11 14:16:46,2022-05-11 14:18:08,1m - 22.651s,PASSED
+,,,,,,,
+Test Cases/Marketer/Simulasi Kredit Baru/2. Simulasi Kredit,,,,2022-05-11 14:16:46,2022-05-11 14:18:08,1m - 21.931s,PASSED
+"baseDir = System.getProperty(""user.dir"")",,Get directory project,,2022-05-11 14:16:47,2022-05-11 14:16:48,0.006s,PASSED
+"startExistingApplication(""bcaf.crm.kkb.saleskit"")",,,,2022-05-11 14:16:48,2022-05-11 14:17:08,20.346s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-11 14:17:08,2022-05-11 14:17:10,2.119s,PASSED
+"takeScreenshot(baseDir + sspathkkbsk + ""Simulasi Kredit 1"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-11 14:17:10,2022-05-11 14:17:11,1.495s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.view.ViewGroup""), 0)",,,,2022-05-11 14:17:11,2022-05-11 14:17:15,3.097s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner""), 0)",,,,2022-05-11 14:17:15,2022-05-11 14:17:16,1.311s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Reguler""), 0)",,,,2022-05-11 14:17:16,2022-05-11 14:17:18,2.274s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner (1)""), 0)",,,,2022-05-11 14:17:18,2022-05-11 14:17:19,1.197s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Mobil Baru""), 0)",,,,2022-05-11 14:17:19,2022-05-11 14:17:22,2.483s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner (2)""), 0)",,,,2022-05-11 14:17:22,2022-05-11 14:17:23,1.020s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Perorangan""), 0)",,,,2022-05-11 14:17:23,2022-05-11 14:17:25,1.998s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.RadioButton - Ya""), 0)",,,,2022-05-11 14:17:25,2022-05-11 14:17:26,0.900s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner (3)""), 0)",,,,2022-05-11 14:17:26,2022-05-11 14:17:27,1.382s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Solitaire""), 0)",,,,2022-05-11 14:17:27,2022-05-11 14:17:29,1.966s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner (4)""), 0)",,,,2022-05-11 14:17:29,2022-05-11 14:17:30,0.825s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Produktif""), 0)",,,,2022-05-11 14:17:30,2022-05-11 14:17:32,1.951s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-11 14:17:32,2022-05-11 14:17:34,2.014s,PASSED
+"takeScreenshot(baseDir + sspathkkbsk + ""Simulasi Kredit 2"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-11 14:17:34,2022-05-11 14:17:35,1.133s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Button - Lanjut""), 0)",,,,2022-05-11 14:17:35,2022-05-11 14:17:36,0.792s,PASSED
+"setText(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.EditText (1)""), ""500000000"", 0)",,,,2022-05-11 14:17:36,2022-05-11 14:17:39,2.715s,PASSED
+"setText(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.EditText (2)""), ""30"", 0)",,,,2022-05-11 14:17:39,2022-05-11 14:17:40,1.637s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner (5)""), 0)",,,,2022-05-11 14:17:40,2022-05-11 14:17:42,2.073s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Passenger""), 0)",,,,2022-05-11 14:17:42,2022-05-11 14:17:44,1.425s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner (6)""), 0)",,,,2022-05-11 14:17:44,2022-05-11 14:17:45,0.920s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Lain-lainnya""), 0)",,,,2022-05-11 14:17:45,2022-05-11 14:17:47,2.101s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner (7)""), 0)",,,,2022-05-11 14:17:47,2022-05-11 14:17:47,0.752s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Comprehensive""), 0)",,,,2022-05-11 14:17:47,2022-05-11 14:17:50,2.151s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-11 14:17:50,2022-05-11 14:17:52,2.011s,PASSED
+"takeScreenshot(baseDir + sspathkkbsk + ""Simulasi Kredit 3"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-11 14:17:52,2022-05-11 14:17:53,1.118s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Button - Kalkulasi""), 0)",,,,2022-05-11 14:17:53,2022-05-11 14:17:53,0.721s,PASSED
+"delay(4, STOP_ON_FAILURE)",,,,2022-05-11 14:17:53,2022-05-11 14:17:57,4.023s,PASSED
+"takeScreenshot(baseDir + sspathkkbsk + ""Simulasi Kredit 4"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-11 14:17:57,2022-05-11 14:17:59,1.088s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.ImageButton""), 0)",,,,2022-05-11 14:17:59,2022-05-11 14:17:59,0.850s,PASSED
+"delay(4, STOP_ON_FAILURE)",,,,2022-05-11 14:17:59,2022-05-11 14:18:03,4.007s,PASSED
+"takeScreenshot(baseDir + sspathkkbsk + ""Simulasi Kredit 5"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-11 14:18:03,2022-05-11 14:18:05,1.097s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Button - Apply Now""), 0)",,,,2022-05-11 14:18:05,2022-05-11 14:18:05,0.681s,PASSED
+"delay(1, STOP_ON_FAILURE)",,,,2022-05-11 14:18:05,2022-05-11 14:18:06,1.018s,PASSED
+"takeScreenshot(baseDir + sspathkkbsk + ""Simulasi Kredit 6"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-11 14:18:06,2022-05-11 14:18:07,1.074s,PASSED
+closeApplication(),,,,2022-05-11 14:18:07,2022-05-11 14:18:08,0.856s,PASSED

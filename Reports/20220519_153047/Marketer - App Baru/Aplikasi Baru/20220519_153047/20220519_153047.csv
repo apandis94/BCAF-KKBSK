@@ -1,0 +1,152 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Aplikasi Baru,,,,2022-05-19 15:30:53,2022-05-19 15:38:51,7m - 58.065s,PASSED
+,,,,,,,
+Test Cases/Marketer/Simulasi Kredit Baru/2. Simulasi Kredit,,,,2022-05-19 15:30:54,2022-05-19 15:32:23,1m - 28.927s,PASSED
+"baseDir = System.getProperty(""user.dir"")",,Get directory project,,2022-05-19 15:30:55,2022-05-19 15:30:55,0.004s,PASSED
+"startExistingApplication(""bcaf.crm.kkb.saleskit"")",,,,2022-05-19 15:30:55,2022-05-19 15:31:15,19.572s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:31:15,2022-05-19 15:31:17,2.153s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Simulasi Kredit 1"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:31:17,2022-05-19 15:31:19,2.572s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.view.ViewGroup""), 0)",,,,2022-05-19 15:31:19,2022-05-19 15:31:22,3.014s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner""), 0)",,,,2022-05-19 15:31:22,2022-05-19 15:31:24,1.416s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Reguler""), 0)",,,,2022-05-19 15:31:24,2022-05-19 15:31:26,2.113s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner (1)""), 0)",,,,2022-05-19 15:31:26,2022-05-19 15:31:27,0.906s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Mobil Baru""), 0)",,,,2022-05-19 15:31:27,2022-05-19 15:31:29,2.134s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner (2)""), 0)",,,,2022-05-19 15:31:29,2022-05-19 15:31:30,0.990s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Perorangan""), 0)",,,,2022-05-19 15:31:30,2022-05-19 15:31:32,1.976s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.RadioButton - Ya""), 0)",,,,2022-05-19 15:31:32,2022-05-19 15:31:34,1.596s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner (3)""), 0)",,,,2022-05-19 15:31:34,2022-05-19 15:31:35,1.466s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Solitaire""), 0)",,,,2022-05-19 15:31:35,2022-05-19 15:31:37,2.023s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner (4)""), 0)",,,,2022-05-19 15:31:37,2022-05-19 15:31:38,0.872s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Produktif""), 0)",,,,2022-05-19 15:31:38,2022-05-19 15:31:40,1.922s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:31:40,2022-05-19 15:31:42,2.023s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Simulasi Kredit 2"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:31:42,2022-05-19 15:31:44,2.342s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Button - Lanjut""), 0)",,,,2022-05-19 15:31:44,2022-05-19 15:31:45,1.073s,PASSED
+"setText(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.EditText (1)""), ""500000000"", 0)",,,,2022-05-19 15:31:45,2022-05-19 15:31:48,2.998s,PASSED
+"setText(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.EditText (2)""), ""30"", 0)",,,,2022-05-19 15:31:48,2022-05-19 15:31:50,1.488s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner (5)""), 0)",,,,2022-05-19 15:31:50,2022-05-19 15:31:52,2.193s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Passenger""), 0)",,,,2022-05-19 15:31:52,2022-05-19 15:31:53,1.545s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner (6)""), 0)",,,,2022-05-19 15:31:53,2022-05-19 15:31:55,1.665s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Lain-lainnya""), 0)",,,,2022-05-19 15:31:55,2022-05-19 15:31:57,1.411s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Spinner (7)""), 0)",,,,2022-05-19 15:31:57,2022-05-19 15:31:57,0.796s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Comprehensive""), 0)",,,,2022-05-19 15:31:57,2022-05-19 15:32:00,2.317s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:32:00,2022-05-19 15:32:02,2.005s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Simulasi Kredit 3"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:32:02,2022-05-19 15:32:04,2.002s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Button - Kalkulasi""), 0)",,,,2022-05-19 15:32:04,2022-05-19 15:32:05,1.320s,PASSED
+"delay(4, STOP_ON_FAILURE)",,,,2022-05-19 15:32:05,2022-05-19 15:32:09,4.022s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Simulasi Kredit 4"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:32:09,2022-05-19 15:32:11,2.205s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.ImageButton""), 0)",,,,2022-05-19 15:32:11,2022-05-19 15:32:12,0.914s,PASSED
+"delay(4, STOP_ON_FAILURE)",,,,2022-05-19 15:32:12,2022-05-19 15:32:16,4.013s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Simulasi Kredit 5"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:32:16,2022-05-19 15:32:18,2.303s,PASSED
+"tap(findTestObject(""Object Repository/Simulasi Kredit 1/android.widget.Button - Apply Now""), 0)",,,,2022-05-19 15:32:18,2022-05-19 15:32:19,0.732s,PASSED
+"delay(1, STOP_ON_FAILURE)",,,,2022-05-19 15:32:19,2022-05-19 15:32:20,1.003s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Simulasi Kredit 6"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:32:20,2022-05-19 15:32:22,1.870s,PASSED
+closeApplication(),,,,2022-05-19 15:32:22,2022-05-19 15:32:23,0.810s,PASSED
+,,,,,,,
+Test Cases/Marketer/Simulasi Kredit Baru/3. Upload File,,,,2022-05-19 15:32:23,2022-05-19 15:36:11,3m - 48.025s,PASSED
+"baseDir = System.getProperty(""user.dir"")",,Get directory project,,2022-05-19 15:32:24,2022-05-19 15:32:24,0.001s,PASSED
+"startExistingApplication(""bcaf.crm.kkb.saleskit"")",,,,2022-05-19 15:32:24,2022-05-19 15:32:39,15.383s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:32:39,2022-05-19 15:32:41,2.005s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Upload File 1"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:32:41,2022-05-19 15:32:43,2.131s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.ImageView""), 0)",,,,2022-05-19 15:32:43,2022-05-19 15:32:45,1.677s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.Button - GALERI""), 0)",,,,2022-05-19 15:32:45,2022-05-19 15:32:46,0.647s,PASSED
+"scrollToText(""Upload File"")",,,,2022-05-19 15:32:46,2022-05-19 15:32:58,12.761s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.ImageView (1)""), 0)",,,,2022-05-19 15:32:58,2022-05-19 15:32:59,1.083s,PASSED
+"tap(findTestObject(""Upload File/android.widget.FrameLayout 1 - KTP""), 0)",,,,2022-05-19 15:32:59,2022-05-19 15:33:01,1.377s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.ImageView (2)""), 0)",,,,2022-05-19 15:33:01,2022-05-19 15:33:03,1.910s,PASSED
+"tap(findTestObject(""Upload File/android.widget.Button - GALERI""), 0)",,,,2022-05-19 15:33:03,2022-05-19 15:33:04,1.138s,PASSED
+"scrollToText(""Upload File"")",,,,2022-05-19 15:33:04,2022-05-19 15:33:16,11.878s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.ImageView (3)""), 0)",,,,2022-05-19 15:33:16,2022-05-19 15:33:17,0.905s,PASSED
+"tap(findTestObject(""Upload File/android.widget.FrameLayout 2 - KTP Pasangan""), 0)",,,,2022-05-19 15:33:17,2022-05-19 15:33:18,1.280s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:33:18,2022-05-19 15:33:20,2.021s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Upload File 2"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:33:20,2022-05-19 15:33:25,4.748s,PASSED
+"scrollToText(""NPWP"")",,,,2022-05-19 15:33:25,2022-05-19 15:33:29,4.199s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.ImageView (4)""), 0)",,,,2022-05-19 15:33:29,2022-05-19 15:33:30,0.878s,PASSED
+"tap(findTestObject(""Upload File/android.widget.Button - GALERI""), 0)",,,,2022-05-19 15:33:30,2022-05-19 15:33:31,1.107s,PASSED
+"scrollToText(""Upload File"")",,,,2022-05-19 15:33:31,2022-05-19 15:33:43,11.770s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.ImageView (5)""), 0)",,,,2022-05-19 15:33:43,2022-05-19 15:33:44,0.949s,PASSED
+"tap(findTestObject(""Upload File/android.widget.FrameLayout 3 KK""), 0)",,,,2022-05-19 15:33:44,2022-05-19 15:33:45,1.716s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.view.ViewGroup""), 0)",,,,2022-05-19 15:33:45,2022-05-19 15:33:47,1.496s,PASSED
+"tap(findTestObject(""Upload File/android.widget.Button - GALERI""), 0)",,,,2022-05-19 15:33:47,2022-05-19 15:33:48,1.099s,PASSED
+"scrollToText(""Upload File"")",,,,2022-05-19 15:33:48,2022-05-19 15:34:00,11.691s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.ImageView (6)""), 0)",,,,2022-05-19 15:34:00,2022-05-19 15:34:00,0.833s,PASSED
+"tap(findTestObject(""Upload File/android.widget.FrameLayout 4 - NPWP""), 0)",,,,2022-05-19 15:34:00,2022-05-19 15:34:02,1.163s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:34:02,2022-05-19 15:34:04,2.011s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Upload File 3"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:34:04,2022-05-19 15:34:09,5.210s,PASSED
+"scrollToText(""Bukti Rumah"")",,,,2022-05-19 15:34:09,2022-05-19 15:34:16,7.501s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.ImageView (7)""), 0)",,,,2022-05-19 15:34:16,2022-05-19 15:34:17,0.824s,PASSED
+"tap(findTestObject(""Upload File/android.widget.Button - GALERI""), 0)",,,,2022-05-19 15:34:17,2022-05-19 15:34:20,2.793s,PASSED
+"scrollToText(""Upload File"")",,,,2022-05-19 15:34:20,2022-05-19 15:34:31,10.850s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.ImageView (8)""), 0)",,,,2022-05-19 15:34:31,2022-05-19 15:34:32,0.869s,PASSED
+"tap(findTestObject(""Upload File/android.widget.FrameLayout 5 - Slip Gaji""), 0)",,,,2022-05-19 15:34:32,2022-05-19 15:34:33,1.227s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.ImageView (9)""), 0)",,,,2022-05-19 15:34:33,2022-05-19 15:34:35,1.598s,PASSED
+"tap(findTestObject(""Upload File/android.widget.Button - GALERI""), 0)",,,,2022-05-19 15:34:35,2022-05-19 15:34:36,1.016s,PASSED
+"scrollToText(""Upload File"")",,,,2022-05-19 15:34:36,2022-05-19 15:34:48,11.998s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.ImageView (10)""), 0)",,,,2022-05-19 15:34:48,2022-05-19 15:34:48,0.764s,PASSED
+"tap(findTestObject(""Upload File/android.widget.FrameLayout 6 - Rumah""), 0)",,,,2022-05-19 15:34:48,2022-05-19 15:34:49,1.204s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:34:49,2022-05-19 15:34:52,2.017s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Upload File 4"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:34:52,2022-05-19 15:34:55,3.655s,PASSED
+"scrollToText(""BPKB"")",,,,2022-05-19 15:34:55,2022-05-19 15:35:08,12.614s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.ImageView (11)""), 0)",,,,2022-05-19 15:35:08,2022-05-19 15:35:09,1.159s,PASSED
+"tap(findTestObject(""Upload File/android.widget.Button - GALERI""), 0)",,,,2022-05-19 15:35:09,2022-05-19 15:35:10,1.191s,PASSED
+"scrollToText(""Upload File"")",,,,2022-05-19 15:35:10,2022-05-19 15:35:22,12.117s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.ImageView (12)""), 0)",,,,2022-05-19 15:35:22,2022-05-19 15:35:23,0.709s,PASSED
+"tap(findTestObject(""Upload File/android.widget.FrameLayout 7 - Buku Tabungan""), 0)",,,,2022-05-19 15:35:23,2022-05-19 15:35:24,1.170s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:35:24,2022-05-19 15:35:26,2.014s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Upload File 5"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:35:26,2022-05-19 15:35:29,3.296s,PASSED
+"scrollToText(""Lanjut"")",,,,2022-05-19 15:35:29,2022-05-19 15:35:49,19.129s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.ImageView (13)""), 0)",,,,2022-05-19 15:35:49,2022-05-19 15:35:49,0.744s,PASSED
+"tap(findTestObject(""Upload File/android.widget.Button - GALERI""), 0)",,,,2022-05-19 15:35:49,2022-05-19 15:35:50,1.029s,PASSED
+"scrollToText(""Upload File"")",,,,2022-05-19 15:35:50,2022-05-19 15:36:02,11.565s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.ImageView (14)""), 0)",,,,2022-05-19 15:36:02,2022-05-19 15:36:03,0.772s,PASSED
+"tap(findTestObject(""Upload File/android.widget.FrameLayout 8 - BPKB""), 0)",,,,2022-05-19 15:36:03,2022-05-19 15:36:04,1.207s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:36:04,2022-05-19 15:36:06,2.013s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Upload File 6"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:36:06,2022-05-19 15:36:10,3.733s,PASSED
+"tap(findTestObject(""Object Repository/Upload File/android.widget.Button - Lanjut""), 0)",,,,2022-05-19 15:36:10,2022-05-19 15:36:10,0.723s,PASSED
+closeApplication(),,,,2022-05-19 15:36:10,2022-05-19 15:36:11,0.563s,PASSED
+,,,,,,,
+Test Cases/Marketer/Simulasi Kredit Baru/4. Data Konsumen,,,,2022-05-19 15:36:11,2022-05-19 15:37:13,1m - 1.615s,PASSED
+"baseDir = System.getProperty(""user.dir"")",,Get directory project,,2022-05-19 15:36:12,2022-05-19 15:36:12,0.001s,PASSED
+"startExistingApplication(""bcaf.crm.kkb.saleskit"")",,,,2022-05-19 15:36:12,2022-05-19 15:36:27,15.559s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:36:27,2022-05-19 15:36:30,2.020s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Data Konsumen 1"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:36:30,2022-05-19 15:36:32,2.145s,PASSED
+"setText(findTestObject(""Object Repository/Data Konsumen/android.widget.EditText""), ""3201241107690002"", 0)",,,,2022-05-19 15:36:32,2022-05-19 15:36:33,1.579s,PASSED
+"setText(findTestObject(""Object Repository/Data Konsumen/android.widget.EditText (1)""), ""LUKMAN WIJAYA"", 0)",,,,2022-05-19 15:36:33,2022-05-19 15:36:35,1.562s,PASSED
+"setText(findTestObject(""Object Repository/Data Konsumen/android.widget.EditText (2)""), ""13-03-1989"", 0)",,,,2022-05-19 15:36:35,2022-05-19 15:36:36,1.546s,PASSED
+"setText(findTestObject(""Object Repository/Data Konsumen/android.widget.EditText (3)""), ""JL. RAYA CISEENG NO.12 BLOK A"", 0)",,,,2022-05-19 15:36:36,2022-05-19 15:36:38,1.321s,PASSED
+"setText(findTestObject(""Object Repository/Data Konsumen/android.widget.EditText (4)""), ""JAWA BARAT"", 0)",,,,2022-05-19 15:36:38,2022-05-19 15:36:39,1.485s,PASSED
+"setText(findTestObject(""Object Repository/Data Konsumen/android.widget.EditText (5)""), ""BOGOR"", 0)",,,,2022-05-19 15:36:39,2022-05-19 15:36:41,1.632s,PASSED
+"setText(findTestObject(""Object Repository/Data Konsumen/android.widget.EditText (6)""), ""CISEENG"", 0)",,,,2022-05-19 15:36:41,2022-05-19 15:36:42,1.522s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:36:42,2022-05-19 15:36:44,2.012s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Data Konsumen 2"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:36:44,2022-05-19 15:36:47,2.220s,PASSED
+"scrollToText(""Lanjut"")",,,,2022-05-19 15:36:47,2022-05-19 15:36:51,4.916s,PASSED
+"setText(findTestObject(""Object Repository/Data Konsumen/android.widget.EditText (7)""), ""16660"", 0)",,,,2022-05-19 15:36:51,2022-05-19 15:36:53,1.310s,PASSED
+"setText(findTestObject(""Object Repository/Data Konsumen/android.widget.EditText (8)""), ""081283490030"", 0)",,,,2022-05-19 15:36:53,2022-05-19 15:36:54,1.528s,PASSED
+"setText(findTestObject(""Object Repository/Data Konsumen/android.widget.EditText (9)""), ""lukman.wijaya@gmail.com"", 0)",,,,2022-05-19 15:36:54,2022-05-19 15:36:56,1.905s,PASSED
+"setText(findTestObject(""Object Repository/Data Konsumen/android.widget.EditText (10)""), ""0880562167"", 0)",,,,2022-05-19 15:36:56,2022-05-19 15:36:58,2.081s,PASSED
+"setText(findTestObject(""Object Repository/Data Konsumen/android.widget.EditText (11)""), ""Testing 1"", 0)",,,,2022-05-19 15:36:58,2022-05-19 15:37:00,1.495s,PASSED
+"tap(findTestObject(""Object Repository/Data Konsumen/android.widget.Button - Lanjut""), 0)",,,,2022-05-19 15:37:00,2022-05-19 15:37:02,1.824s,PASSED
+"setText(findTestObject(""Data Konsumen/android.widget.EditText - Nik Pasangan""), ""3175070101909999"", 0)",,,,2022-05-19 15:37:02,2022-05-19 15:37:03,1.007s,PASSED
+"setText(findTestObject(""Object Repository/Data Konsumen/android.widget.EditText (13)""), ""BILLY BUMBLEBEE SIFULAN"", 0)",,,,2022-05-19 15:37:03,2022-05-19 15:37:04,1.743s,PASSED
+"setText(findTestObject(""Object Repository/Data Konsumen/android.widget.EditText (14)""), ""02-Jan-1990"", 0)",,,,2022-05-19 15:37:04,2022-05-19 15:37:06,1.836s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:37:06,2022-05-19 15:37:08,2.009s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Data Konsumen 3"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:37:08,2022-05-19 15:37:10,2.195s,PASSED
+"tap(findTestObject(""Object Repository/Data Konsumen/android.widget.Button - Lanjut (1)""), 0)",,,,2022-05-19 15:37:10,2022-05-19 15:37:12,1.549s,PASSED
+closeApplication(),,,,2022-05-19 15:37:12,2022-05-19 15:37:13,0.605s,PASSED
+,,,,,,,
+Test Cases/Marketer/Simulasi Kredit Baru/5. Data Kendaraan - Submit,,,,2022-05-19 15:37:13,2022-05-19 15:38:51,1m - 38.710s,PASSED
+"baseDir = System.getProperty(""user.dir"")",,Get directory project,,2022-05-19 15:37:13,2022-05-19 15:37:13,0.001s,PASSED
+"startExistingApplication(""bcaf.crm.kkb.saleskit"")",,,,2022-05-19 15:37:13,2022-05-19 15:37:30,16.500s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:37:30,2022-05-19 15:37:32,2.009s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Data Kendaraan 1"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:37:32,2022-05-19 15:37:34,2.019s,PASSED
+"setText(findTestObject(""Object Repository/Data Kendaraan - Submit/android.widget.EditText""), ""HONDA"", 0)",,,,2022-05-19 15:37:34,2022-05-19 15:37:36,1.707s,PASSED
+"setText(findTestObject(""Object Repository/Data Kendaraan - Submit/android.widget.EditText (1)""), ""ALL NEW CIVIC"", 0)",,,,2022-05-19 15:37:36,2022-05-19 15:37:37,1.406s,PASSED
+"setText(findTestObject(""Object Repository/Data Kendaraan - Submit/android.widget.EditText (2)""), ""R - KARBON"", 0)",,,,2022-05-19 15:37:37,2022-05-19 15:37:39,1.803s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:37:39,2022-05-19 15:37:41,2.012s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Data Kendaraan 2"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:37:41,2022-05-19 15:37:43,1.883s,PASSED
+"tap(findTestObject(""Object Repository/Data Kendaraan - Submit/android.widget.Button - Submit""), 0)",,,,2022-05-19 15:37:43,2022-05-19 15:37:44,0.945s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:37:44,2022-05-19 15:37:46,2.012s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Data Kendaraan 3"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:37:46,2022-05-19 15:37:48,1.907s,PASSED
+"tap(findTestObject(""Object Repository/Data Kendaraan - Submit/android.widget.Button - SUBMIT (1)""), 0)",,,,2022-05-19 15:37:48,2022-05-19 15:37:48,0.728s,PASSED
+"delay(60, STOP_ON_FAILURE)",,,,2022-05-19 15:37:48,2022-05-19 15:38:48,1m - 0.018s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Data Kendaraan 4"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:38:48,2022-05-19 15:38:51,2.139s,PASSED
+closeApplication(),,,,2022-05-19 15:38:51,2022-05-19 15:38:51,0.696s,PASSED

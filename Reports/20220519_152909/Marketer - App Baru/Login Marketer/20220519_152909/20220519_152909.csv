@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login Marketer,,,,2022-05-19 15:29:28,2022-05-19 15:30:34,1m - 5.979s,PASSED
+,,,,,,,
+Test Cases/Marketer/Simulasi Kredit Baru/1. Login - Marketer,,,,2022-05-19 15:29:29,2022-05-19 15:30:34,1m - 5.273s,PASSED
+"baseDir = System.getProperty(""user.dir"")",,Get directory project,,2022-05-19 15:29:30,2022-05-19 15:29:30,0.005s,PASSED
+"startExistingApplication(""bcaf.crm.kkb.saleskit"")",,,,2022-05-19 15:29:30,2022-05-19 15:29:53,23.109s,PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText - Username""), ""202020"", 0)",,,,2022-05-19 15:29:53,2022-05-19 15:29:55,2.416s,PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText - Password""), ""Mobile123+"", 0)",,,,2022-05-19 15:29:55,2022-05-19 15:29:57,1.341s,PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageButton""), 0)",,,,2022-05-19 15:29:57,2022-05-19 15:29:58,0.966s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:29:58,2022-05-19 15:30:00,2.092s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Login-1"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:30:00,2022-05-19 15:30:03,3.623s,PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView""), 0)",,,,2022-05-19 15:30:03,2022-05-19 15:30:05,1.468s,PASSED
+"delay(8, STOP_ON_FAILURE)",,,,2022-05-19 15:30:05,2022-05-19 15:30:13,8.025s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Login-2"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:30:13,2022-05-19 15:30:15,2.172s,PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.FrameLayout""), 0)",,,,2022-05-19 15:30:15,2022-05-19 15:30:16,1.373s,PASSED
+"delay(5, STOP_ON_FAILURE)",,,,2022-05-19 15:30:16,2022-05-19 15:30:21,5.012s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Login-3"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:30:21,2022-05-19 15:30:23,1.993s,PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.FrameLayout (1)""), 0)",,,,2022-05-19 15:30:23,2022-05-19 15:30:26,2.327s,PASSED
+"delay(5, STOP_ON_FAILURE)",,,,2022-05-19 15:30:26,2022-05-19 15:30:31,5.025s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Login-4"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:30:31,2022-05-19 15:30:33,2.318s,PASSED
+closeApplication(),,,,2022-05-19 15:30:33,2022-05-19 15:30:34,0.933s,PASSED

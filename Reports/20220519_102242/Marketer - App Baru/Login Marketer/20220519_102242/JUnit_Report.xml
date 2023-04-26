@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login Marketer" time="59.23" tests="1" failures="0" errors="0">
+   <testsuite name="Login Marketer" tests="1" failures="0" errors="0" time="59.23" skipped="0" timestamp="2022-05-19 10:22:47" hostname="Nia Yusniati - Apandi" id="Test Suites/Marketer - App Baru/Login Marketer">
+      <properties>
+         <property name="deviceName" value="samsung SM-M315F (Android 11)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Nia Yusniati\\Git_Asa\\KKBSK\\Reports\\20220519_102242\\Marketer - App Baru\\Login Marketer\\20220519_102242"/>
+         <property name="logFiles" value="C:\\Users\\Nia Yusniati\\Git_Asa\\KKBSK\\Reports\\20220519_102242\\Marketer - App Baru\\Login Marketer\\20220519_102242\\appium.log, C:\\Users\\Nia Yusniati\\Git_Asa\\KKBSK\\Reports\\20220519_102242\\Marketer - App Baru\\Login Marketer\\20220519_102242\\execution0.log"/>
+         <property name="attachments" value="C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-1.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-2.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-3.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-4.png"/>
+         <property name="hostName" value="Nia Yusniati - Apandi"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.2&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}"/>
+         <property name="katalonVersion" value="8.1.0.208"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.22.2"/>
+         <property name="deviceModel" value="SM-M315F"/>
+         <property name="hostAddress" value="192.168.1.18"/>
+         <property name="deviceManufacturer" value="samsung"/>
+         <property name="deviceId" value="RR8N605F11Y"/>
+         <property name="deviceName" value="samsung SM-M315F (Android 11)"/>
+         <property name="deviceOSVersion" value="11"/>
+      </properties>
+      <testcase name="Test Cases/Marketer/Simulasi Kredit Baru/1. Login - Marketer" time="57.919" classname="Test Cases/Marketer/Simulasi Kredit Baru/1. Login - Marketer" status="PASSED">
+         <system-out><![CDATA[2022-05-19 10:22:48 - [TEST_CASE][PASSED] - Test Cases/Marketer/Simulasi Kredit Baru/1. Login - Marketer: Test Cases/Marketer/Simulasi Kredit Baru/1. Login - Marketer
+
+2022-05-19 10:22:49 - [TEST_STEP][PASSED] - baseDir = System.getProperty("user.dir"): null
+
+2022-05-19 10:22:49 - [TEST_STEP][PASSED] - startExistingApplication("bcaf.crm.kkb.saleskit"): Starting app with application ID: 'bcaf.crm.kkb.saleskit'
+
+2022-05-19 10:22:53 - [MESSAGE][INFO] - Appium server started on port 63,494
+
+2022-05-19 10:23:08 - [MESSAGE][PASSED] - Starting app with application ID: 'bcaf.crm.kkb.saleskit'
+
+2022-05-19 10:23:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/android.widget.EditText - Username"), "202020", 0): Text '202020' has been set to element 'Object Repository/Login/android.widget.EditText - Username'
+
+2022-05-19 10:23:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:23:10 - [MESSAGE][PASSED] - Text '202020' has been set to element 'Object Repository/Login/android.widget.EditText - Username'
+
+2022-05-19 10:23:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/android.widget.EditText - Password"), "Mobile123+", 0): Text 'Mobile123+' has been set to element 'Object Repository/Login/android.widget.EditText - Password'
+
+2022-05-19 10:23:10 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:23:11 - [MESSAGE][PASSED] - Text 'Mobile123+' has been set to element 'Object Repository/Login/android.widget.EditText - Password'
+
+2022-05-19 10:23:11 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Login/android.widget.ImageButton"), 0): Tapped on element 'Object Repository/Login/android.widget.ImageButton'
+
+2022-05-19 10:23:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:23:12 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Login/android.widget.ImageButton'
+
+2022-05-19 10:23:12 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:23:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:23:14 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Login-1" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:23:17 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:23:17 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-1.png]]
+
+2022-05-19 10:23:17 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Login/android.widget.ImageView"), 0): Tapped on element 'Object Repository/Login/android.widget.ImageView'
+
+2022-05-19 10:23:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:23:18 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Login/android.widget.ImageView'
+
+2022-05-19 10:23:18 - [TEST_STEP][PASSED] - delay(8, STOP_ON_FAILURE): Delayed 8 second(s)
+
+2022-05-19 10:23:26 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2022-05-19 10:23:26 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Login-2" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:23:28 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:23:28 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-2.png]]
+
+2022-05-19 10:23:28 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Login/android.widget.FrameLayout"), 0): Tapped on element 'Object Repository/Login/android.widget.FrameLayout'
+
+2022-05-19 10:23:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:23:30 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Login/android.widget.FrameLayout'
+
+2022-05-19 10:23:30 - [TEST_STEP][PASSED] - delay(5, STOP_ON_FAILURE): Delayed 5 second(s)
+
+2022-05-19 10:23:35 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-05-19 10:23:35 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Login-3" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:23:36 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:23:37 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-3.png]]
+
+2022-05-19 10:23:37 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Login/android.widget.FrameLayout (1)"), 0): Tapped on element 'Object Repository/Login/android.widget.FrameLayout (1)'
+
+2022-05-19 10:23:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:23:38 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Login/android.widget.FrameLayout (1)'
+
+2022-05-19 10:23:38 - [TEST_STEP][PASSED] - delay(5, STOP_ON_FAILURE): Delayed 5 second(s)
+
+2022-05-19 10:23:43 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-05-19 10:23:43 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Login-4" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:23:45 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:23:45 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-4.png]]
+
+2022-05-19 10:23:45 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2022-05-19 10:23:46 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-05-19 10:22:47 - [TEST_SUITE][PASSED] - Login Marketer: Test Cases/Marketer/Simulasi Kredit Baru/1. Login - Marketer]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

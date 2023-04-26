@@ -1,0 +1,45 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login - tracking BM,,,,2022-05-19 15:39:15,2022-05-19 15:41:35,2m - 19.560s,PASSED
+,,,,,,,
+Test Cases/BM/Login - BM,,,,2022-05-19 15:39:16,2022-05-19 15:40:19,1m - 3.457s,PASSED
+"baseDir = System.getProperty(""user.dir"")",,Get directory project,,2022-05-19 15:39:17,2022-05-19 15:39:17,0.003s,PASSED
+"startExistingApplication(""bcaf.crm.kkb.saleskit"")",,,,2022-05-19 15:39:17,2022-05-19 15:39:37,20.156s,PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText - Username""), ""BMKKB1"", 0)",,,,2022-05-19 15:39:37,2022-05-19 15:39:39,1.840s,PASSED
+"setText(findTestObject(""Object Repository/Login/android.widget.EditText - Password""), ""Mobile123+"", 0)",,,,2022-05-19 15:39:39,2022-05-19 15:39:41,2.235s,PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageButton""), 0)",,,,2022-05-19 15:39:41,2022-05-19 15:39:42,1.088s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:39:42,2022-05-19 15:39:44,2.133s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Login-1"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:39:44,2022-05-19 15:39:48,3.369s,PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.ImageView""), 0)",,,,2022-05-19 15:39:48,2022-05-19 15:39:48,0.642s,PASSED
+"delay(8, STOP_ON_FAILURE)",,,,2022-05-19 15:39:48,2022-05-19 15:39:56,8.020s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Login-2"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:39:56,2022-05-19 15:39:59,2.346s,PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.FrameLayout""), 0)",,,,2022-05-19 15:39:59,2022-05-19 15:40:01,2.792s,PASSED
+"delay(5, STOP_ON_FAILURE)",,,,2022-05-19 15:40:01,2022-05-19 15:40:06,5.009s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Login-3"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:40:06,2022-05-19 15:40:09,2.113s,PASSED
+"tap(findTestObject(""Object Repository/Login/android.widget.FrameLayout (1)""), 0)",,,,2022-05-19 15:40:09,2022-05-19 15:40:11,2.511s,PASSED
+"delay(5, STOP_ON_FAILURE)",,,,2022-05-19 15:40:11,2022-05-19 15:40:16,5.012s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Login-4"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:40:16,2022-05-19 15:40:18,2.271s,PASSED
+closeApplication(),,,,2022-05-19 15:40:18,2022-05-19 15:40:19,0.869s,PASSED
+,,,,,,,
+Test Cases/BM/Tracking,,,,2022-05-19 15:40:19,2022-05-19 15:41:35,1m - 15.479s,PASSED
+"baseDir = System.getProperty(""user.dir"")",,Get directory project,,2022-05-19 15:40:20,2022-05-19 15:40:20,0.001s,PASSED
+"startExistingApplication(""bcaf.crm.kkb.saleskit"")",,,,2022-05-19 15:40:20,2022-05-19 15:40:37,17.161s,PASSED
+"swipe(300, 500, 0, 500)",,,,2022-05-19 15:40:37,2022-05-19 15:40:39,1.378s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:40:39,2022-05-19 15:40:41,2.021s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Tracking-1"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:40:41,2022-05-19 15:40:43,2.068s,PASSED
+"tap(findTestObject(""Object Repository/Tracking/android.widget.ImageView""), 0)",,,,2022-05-19 15:40:43,2022-05-19 15:40:44,1.285s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:40:44,2022-05-19 15:40:46,2.019s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Tracking-2"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:40:46,2022-05-19 15:40:48,2.143s,PASSED
+"tap(findTestObject(""Object Repository/Tracking/android.widget.TextView - Input Pencarian""), 0)",,,,2022-05-19 15:40:48,2022-05-19 15:40:49,0.755s,PASSED
+"setText(findTestObject(""Tracking/android.widget.EditText""), ""(KCU) SOLO SLAMET RIYADI"", 0)",,,,2022-05-19 15:40:49,2022-05-19 15:40:51,1.856s,PASSED
+"setText(findTestObject(""Object Repository/Tracking/android.widget.EditText (3)""), ""Test Tracking"", 0)",,,,2022-05-19 15:40:51,2022-05-19 15:40:52,1.469s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:40:52,2022-05-19 15:40:54,2.020s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Tracking-3"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:40:54,2022-05-19 15:40:57,2.147s,PASSED
+"tap(findTestObject(""Object Repository/Tracking/android.widget.Button - Cari (1)""), 0)",,,,2022-05-19 15:40:57,2022-05-19 15:40:57,0.876s,PASSED
+"delay(20, STOP_ON_FAILURE)",,,,2022-05-19 15:40:57,2022-05-19 15:41:17,20.012s,PASSED
+"swipe(0, 1000, 0, 500)",,,,2022-05-19 15:41:17,2022-05-19 15:41:19,1.284s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2022-05-19 15:41:19,2022-05-19 15:41:21,2.022s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Tracking-4"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:41:21,2022-05-19 15:41:23,2.273s,PASSED
+"tap(findTestObject(""Object Repository/Tracking/android.widget.TextView - SOLO SLAMET RIYADI""), 0)",,,,2022-05-19 15:41:23,2022-05-19 15:41:25,1.858s,PASSED
+"delay(7, STOP_ON_FAILURE)",,,,2022-05-19 15:41:25,2022-05-19 15:41:32,7.013s,PASSED
+"takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + ""Tracking-5"" + "".png"", STOP_ON_FAILURE)",,,,2022-05-19 15:41:32,2022-05-19 15:41:34,2.107s,PASSED
+closeApplication(),,,,2022-05-19 15:41:34,2022-05-19 15:41:35,0.660s,PASSED

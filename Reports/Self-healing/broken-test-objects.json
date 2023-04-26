@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/IE EDGE/Page_Sigma  Aprova/input_User            id_UserId",
+      "brokenLocator": "//input[@name\u003d\u0027UserId\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "input[name\u003d\"UserId\"]",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/IE EDGE/Page_Sigma  Aprova/input_User            id_UserId_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/IE EDGE/Page_Sigma  Aprova/input_Password_Password",
+      "brokenLocator": "//input[@name\u003d\u0027Password\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "input[name\u003d\"Password\"]",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/IE EDGE/Page_Sigma  Aprova/input_Password_Password_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/IE EDGE/Page_Sigma  Aprova/input_Forgot password_btnSubmit",
+      "brokenLocator": "//input[@name\u003d\u0027btnSubmit\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "input[name\u003d\"btnSubmit\"]",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/IE EDGE/Page_Sigma  Aprova/input_Forgot password_btnSubmit_CSS.png"
+    }
+  ]
+}

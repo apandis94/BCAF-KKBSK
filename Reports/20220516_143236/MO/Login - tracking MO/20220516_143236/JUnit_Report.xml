@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login - tracking MO" time="127.9" tests="2" failures="0" errors="0">
+   <testsuite name="Login - tracking MO" tests="2" failures="0" errors="0" time="127.9" skipped="0" timestamp="2022-05-16 14:32:40" hostname="Nia Yusniati - Apandi" id="Test Suites/MO/Login - tracking MO">
+      <properties>
+         <property name="deviceName" value="samsung SM-M315F (Android 11)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Nia Yusniati\\Git_Asa\\KKBSK\\Reports\\20220516_143236\\MO\\Login - tracking MO\\20220516_143236"/>
+         <property name="logFiles" value="C:\\Users\\Nia Yusniati\\Git_Asa\\KKBSK\\Reports\\20220516_143236\\MO\\Login - tracking MO\\20220516_143236\\appium.log, C:\\Users\\Nia Yusniati\\Git_Asa\\KKBSK\\Reports\\20220516_143236\\MO\\Login - tracking MO\\20220516_143236\\execution0.log"/>
+         <property name="attachments" value="C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-1.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-2.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-3.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-4.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruTracking-1.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruTracking-2.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruTracking-3.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruTracking-4.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruTracking-5.png"/>
+         <property name="hostName" value="Nia Yusniati - Apandi"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.2&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}"/>
+         <property name="katalonVersion" value="8.1.0.208"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.22.2"/>
+         <property name="deviceModel" value="SM-M315F"/>
+         <property name="hostAddress" value="192.168.1.23"/>
+         <property name="deviceManufacturer" value="samsung"/>
+         <property name="deviceId" value="RR8N605F11Y"/>
+         <property name="deviceName" value="samsung SM-M315F (Android 11)"/>
+         <property name="deviceOSVersion" value="11"/>
+      </properties>
+      <testcase name="Test Cases/MO/Login - MO" time="55.681" classname="Test Cases/MO/Login - MO" status="PASSED">
+         <system-out><![CDATA[2022-05-16 14:32:41 - [TEST_CASE][PASSED] - Test Cases/MO/Login - MO: Test Cases/MO/Login - MO
+
+2022-05-16 14:32:42 - [TEST_STEP][PASSED] - baseDir = System.getProperty("user.dir"): null
+
+2022-05-16 14:32:42 - [TEST_STEP][PASSED] - startExistingApplication("bcaf.crm.kkb.saleskit"): Starting app with application ID: 'bcaf.crm.kkb.saleskit'
+
+2022-05-16 14:32:46 - [MESSAGE][INFO] - Appium server started on port 49,496
+
+2022-05-16 14:32:59 - [MESSAGE][PASSED] - Starting app with application ID: 'bcaf.crm.kkb.saleskit'
+
+2022-05-16 14:32:59 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/android.widget.EditText - Username"), "MOKKB1", 0): Text 'MOKKB1' has been set to element 'Object Repository/Login/android.widget.EditText - Username'
+
+2022-05-16 14:32:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-16 14:33:01 - [MESSAGE][PASSED] - Text 'MOKKB1' has been set to element 'Object Repository/Login/android.widget.EditText - Username'
+
+2022-05-16 14:33:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/android.widget.EditText - Password"), "mobile123+", 0): Text 'mobile123+' has been set to element 'Object Repository/Login/android.widget.EditText - Password'
+
+2022-05-16 14:33:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-16 14:33:03 - [MESSAGE][PASSED] - Text 'mobile123+' has been set to element 'Object Repository/Login/android.widget.EditText - Password'
+
+2022-05-16 14:33:03 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Login/android.widget.ImageButton"), 0): Tapped on element 'Object Repository/Login/android.widget.ImageButton'
+
+2022-05-16 14:33:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-16 14:33:04 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Login/android.widget.ImageButton'
+
+2022-05-16 14:33:04 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-16 14:33:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-16 14:33:06 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Login-1" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-16 14:33:08 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-16 14:33:09 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-1.png]]
+
+2022-05-16 14:33:09 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Login/android.widget.ImageView"), 0): Tapped on element 'Object Repository/Login/android.widget.ImageView'
+
+2022-05-16 14:33:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-16 14:33:10 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Login/android.widget.ImageView'
+
+2022-05-16 14:33:10 - [TEST_STEP][PASSED] - delay(8, STOP_ON_FAILURE): Delayed 8 second(s)
+
+2022-05-16 14:33:18 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2022-05-16 14:33:18 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Login-2" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-16 14:33:19 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-16 14:33:20 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-2.png]]
+
+2022-05-16 14:33:20 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Login/android.widget.FrameLayout"), 0): Tapped on element 'Object Repository/Login/android.widget.FrameLayout'
+
+2022-05-16 14:33:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-16 14:33:21 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Login/android.widget.FrameLayout'
+
+2022-05-16 14:33:21 - [TEST_STEP][PASSED] - delay(5, STOP_ON_FAILURE): Delayed 5 second(s)
+
+2022-05-16 14:33:26 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-05-16 14:33:26 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Login-3" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-16 14:33:28 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-16 14:33:28 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-3.png]]
+
+2022-05-16 14:33:28 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Login/android.widget.FrameLayout (1)"), 0): Tapped on element 'Object Repository/Login/android.widget.FrameLayout (1)'
+
+2022-05-16 14:33:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-16 14:33:29 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Login/android.widget.FrameLayout (1)'
+
+2022-05-16 14:33:29 - [TEST_STEP][PASSED] - delay(5, STOP_ON_FAILURE): Delayed 5 second(s)
+
+2022-05-16 14:33:34 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-05-16 14:33:34 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Login-4" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-16 14:33:36 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-16 14:33:36 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruLogin-4.png]]
+
+2022-05-16 14:33:36 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2022-05-16 14:33:37 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/MO/Tracking" time="70.953" classname="Test Cases/MO/Tracking" status="PASSED">
+         <system-out><![CDATA[2022-05-16 14:33:37 - [TEST_CASE][PASSED] - Test Cases/MO/Tracking: Test Cases/MO/Tracking
+
+2022-05-16 14:33:37 - [TEST_STEP][PASSED] - baseDir = System.getProperty("user.dir"): null
+
+2022-05-16 14:33:37 - [TEST_STEP][PASSED] - startExistingApplication("bcaf.crm.kkb.saleskit"): Starting app with application ID: 'bcaf.crm.kkb.saleskit'
+
+2022-05-16 14:33:41 - [MESSAGE][INFO] - Appium server started on port 49,655
+
+2022-05-16 14:33:53 - [MESSAGE][PASSED] - Starting app with application ID: 'bcaf.crm.kkb.saleskit'
+
+2022-05-16 14:33:53 - [TEST_STEP][PASSED] - swipe(300, 500, 0, 500): Swiped from 300,500 to 0,500
+
+2022-05-16 14:33:54 - [MESSAGE][PASSED] - Swiped from 300,500 to 0,500
+
+2022-05-16 14:33:54 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-16 14:33:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-16 14:33:56 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Tracking-1" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-16 14:33:58 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-16 14:33:58 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruTracking-1.png]]
+
+2022-05-16 14:33:58 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Tracking/android.widget.ImageView"), 0): Tapped on element 'Object Repository/Tracking/android.widget.ImageView'
+
+2022-05-16 14:33:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-16 14:33:59 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Tracking/android.widget.ImageView'
+
+2022-05-16 14:33:59 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-16 14:34:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-16 14:34:01 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Tracking-2" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-16 14:34:03 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-16 14:34:03 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruTracking-2.png]]
+
+2022-05-16 14:34:03 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Tracking/android.widget.TextView - Input Pencarian"), 0): Tapped on element 'Object Repository/Tracking/android.widget.TextView - Input Pencarian'
+
+2022-05-16 14:34:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-16 14:34:04 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Tracking/android.widget.TextView - Input Pencarian'
+
+2022-05-16 14:34:04 - [TEST_STEP][PASSED] - setText(findTestObject("Tracking/android.widget.EditText"), "(KCU) SOLO SLAMET RIYADI", 0): Text '(KCU) SOLO SLAMET RIYADI' has been set to element 'Object Repository/Tracking/android.widget.EditText'
+
+2022-05-16 14:34:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-16 14:34:06 - [MESSAGE][PASSED] - Text '(KCU) SOLO SLAMET RIYADI' has been set to element 'Object Repository/Tracking/android.widget.EditText'
+
+2022-05-16 14:34:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Tracking/android.widget.EditText (3)"), "Test Tracking", 0): Text 'Test Tracking' has been set to element 'Object Repository/Tracking/android.widget.EditText (3)'
+
+2022-05-16 14:34:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-16 14:34:07 - [MESSAGE][PASSED] - Text 'Test Tracking' has been set to element 'Object Repository/Tracking/android.widget.EditText (3)'
+
+2022-05-16 14:34:07 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-16 14:34:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-16 14:34:09 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Tracking-3" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-16 14:34:11 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-16 14:34:11 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruTracking-3.png]]
+
+2022-05-16 14:34:11 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Tracking/android.widget.Button - Cari (1)"), 0): Tapped on element 'Object Repository/Tracking/android.widget.Button - Cari (1)'
+
+2022-05-16 14:34:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-16 14:34:13 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Tracking/android.widget.Button - Cari (1)'
+
+2022-05-16 14:34:13 - [TEST_STEP][PASSED] - swipe(0, 1000, 0, 500): Swiped from 0,1,000 to 0,500
+
+2022-05-16 14:34:14 - [MESSAGE][PASSED] - Swiped from 0,1,000 to 0,500
+
+2022-05-16 14:34:14 - [TEST_STEP][PASSED] - delay(20, STOP_ON_FAILURE): Delayed 20 second(s)
+
+2022-05-16 14:34:34 - [MESSAGE][PASSED] - Delayed 20 second(s)
+
+2022-05-16 14:34:34 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Tracking-4" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-16 14:34:36 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-16 14:34:36 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruTracking-4.png]]
+
+2022-05-16 14:34:36 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Tracking/android.widget.TextView - SOLO SLAMET RIYADI"), 0): Tapped on element 'Object Repository/Tracking/android.widget.TextView - SOLO SLAMET RIYADI'
+
+2022-05-16 14:34:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-16 14:34:38 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Tracking/android.widget.TextView - SOLO SLAMET RIYADI'
+
+2022-05-16 14:34:38 - [TEST_STEP][PASSED] - delay(7, STOP_ON_FAILURE): Delayed 7 second(s)
+
+2022-05-16 14:34:45 - [MESSAGE][PASSED] - Delayed 7 second(s)
+
+2022-05-16 14:34:45 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Tracking-5" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-16 14:34:47 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-16 14:34:47 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruTracking-5.png]]
+
+2022-05-16 14:34:47 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2022-05-16 14:34:48 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-05-16 14:32:40 - [TEST_SUITE][PASSED] - Login - tracking MO: Test Cases/MO/Tracking]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Aplikasi Baru" time="591.654" tests="4" failures="0" errors="0">
+   <testsuite name="Aplikasi Baru" tests="4" failures="0" errors="0" time="591.654" skipped="0" timestamp="2022-05-19 10:24:06" hostname="Nia Yusniati - Apandi" id="Test Suites/Marketer - App Baru/Aplikasi Baru">
+      <properties>
+         <property name="deviceName" value="samsung SM-M315F (Android 11)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Nia Yusniati\\Git_Asa\\KKBSK\\Reports\\20220519_102401\\Marketer - App Baru\\Aplikasi Baru\\20220519_102401"/>
+         <property name="logFiles" value="C:\\Users\\Nia Yusniati\\Git_Asa\\KKBSK\\Reports\\20220519_102401\\Marketer - App Baru\\Aplikasi Baru\\20220519_102401\\appium.log, C:\\Users\\Nia Yusniati\\Git_Asa\\KKBSK\\Reports\\20220519_102401\\Marketer - App Baru\\Aplikasi Baru\\20220519_102401\\execution0.log"/>
+         <property name="attachments" value="C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruSimulasi Kredit 1.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruSimulasi Kredit 2.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruSimulasi Kredit 3.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruSimulasi Kredit 4.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruSimulasi Kredit 5.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruSimulasi Kredit 6.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruUpload File 1.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruUpload File 2.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruUpload File 3.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruUpload File 4.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruUpload File 5.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruUpload File 6.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruData Konsumen 1.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruData Konsumen 2.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruData Konsumen 3.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruData Kendaraan 1.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruData Kendaraan 2.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruData Kendaraan 3.png, C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruData Kendaraan 4.png"/>
+         <property name="hostName" value="Nia Yusniati - Apandi"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.2&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}"/>
+         <property name="katalonVersion" value="8.1.0.208"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.22.2"/>
+         <property name="deviceModel" value="SM-M315F"/>
+         <property name="hostAddress" value="192.168.1.18"/>
+         <property name="deviceManufacturer" value="samsung"/>
+         <property name="deviceId" value="RR8N605F11Y"/>
+         <property name="deviceName" value="samsung SM-M315F (Android 11)"/>
+         <property name="deviceOSVersion" value="11"/>
+      </properties>
+      <testcase name="Test Cases/Marketer/Simulasi Kredit Baru/2. Simulasi Kredit" time="85.66" classname="Test Cases/Marketer/Simulasi Kredit Baru/2. Simulasi Kredit" status="PASSED">
+         <system-out><![CDATA[2022-05-19 10:24:06 - [TEST_CASE][PASSED] - Test Cases/Marketer/Simulasi Kredit Baru/2. Simulasi Kredit: Test Cases/Marketer/Simulasi Kredit Baru/2. Simulasi Kredit
+
+2022-05-19 10:24:07 - [TEST_STEP][PASSED] - baseDir = System.getProperty("user.dir"): null
+
+2022-05-19 10:24:07 - [TEST_STEP][PASSED] - startExistingApplication("bcaf.crm.kkb.saleskit"): Starting app with application ID: 'bcaf.crm.kkb.saleskit'
+
+2022-05-19 10:24:11 - [MESSAGE][INFO] - Appium server started on port 63,651
+
+2022-05-19 10:24:26 - [MESSAGE][PASSED] - Starting app with application ID: 'bcaf.crm.kkb.saleskit'
+
+2022-05-19 10:24:26 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:24:28 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:24:28 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Simulasi Kredit 1" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:24:31 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:24:31 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruSimulasi Kredit 1.png]]
+
+2022-05-19 10:24:31 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.view.ViewGroup"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.view.ViewGroup'
+
+2022-05-19 10:24:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:24:34 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.view.ViewGroup'
+
+2022-05-19 10:24:34 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.Spinner"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner'
+
+2022-05-19 10:24:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:24:35 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner'
+
+2022-05-19 10:24:35 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Reguler"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Reguler'
+
+2022-05-19 10:24:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:24:37 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Reguler'
+
+2022-05-19 10:24:37 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.Spinner (1)"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner (1)'
+
+2022-05-19 10:24:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:24:38 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner (1)'
+
+2022-05-19 10:24:38 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Mobil Baru"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Mobil Baru'
+
+2022-05-19 10:24:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:24:40 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Mobil Baru'
+
+2022-05-19 10:24:40 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.Spinner (2)"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner (2)'
+
+2022-05-19 10:24:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:24:41 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner (2)'
+
+2022-05-19 10:24:41 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Perorangan"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Perorangan'
+
+2022-05-19 10:24:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:24:43 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Perorangan'
+
+2022-05-19 10:24:43 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.RadioButton - Ya"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.RadioButton - Ya'
+
+2022-05-19 10:24:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:24:44 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.RadioButton - Ya'
+
+2022-05-19 10:24:44 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.Spinner (3)"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner (3)'
+
+2022-05-19 10:24:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:24:46 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner (3)'
+
+2022-05-19 10:24:46 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Solitaire"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Solitaire'
+
+2022-05-19 10:24:46 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:24:48 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Solitaire'
+
+2022-05-19 10:24:48 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.Spinner (4)"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner (4)'
+
+2022-05-19 10:24:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:24:48 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner (4)'
+
+2022-05-19 10:24:48 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Produktif"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Produktif'
+
+2022-05-19 10:24:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:24:50 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Produktif'
+
+2022-05-19 10:24:50 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:24:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:24:52 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Simulasi Kredit 2" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:24:54 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:24:55 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruSimulasi Kredit 2.png]]
+
+2022-05-19 10:24:55 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.Button - Lanjut"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Button - Lanjut'
+
+2022-05-19 10:24:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:24:55 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Button - Lanjut'
+
+2022-05-19 10:24:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.EditText (1)"), "500000000", 0): Text '500000000' has been set to element 'Object Repository/Simulasi Kredit 1/android.widget.EditText (1)'
+
+2022-05-19 10:24:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:24:59 - [MESSAGE][PASSED] - Text '500000000' has been set to element 'Object Repository/Simulasi Kredit 1/android.widget.EditText (1)'
+
+2022-05-19 10:24:59 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.EditText (2)"), "30", 0): Text '30' has been set to element 'Object Repository/Simulasi Kredit 1/android.widget.EditText (2)'
+
+2022-05-19 10:24:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:25:00 - [MESSAGE][PASSED] - Text '30' has been set to element 'Object Repository/Simulasi Kredit 1/android.widget.EditText (2)'
+
+2022-05-19 10:25:00 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.Spinner (5)"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner (5)'
+
+2022-05-19 10:25:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:25:02 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner (5)'
+
+2022-05-19 10:25:02 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Passenger"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Passenger'
+
+2022-05-19 10:25:02 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:25:04 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Passenger'
+
+2022-05-19 10:25:04 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.Spinner (6)"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner (6)'
+
+2022-05-19 10:25:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:25:05 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner (6)'
+
+2022-05-19 10:25:05 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Lain-lainnya"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Lain-lainnya'
+
+2022-05-19 10:25:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:25:07 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Lain-lainnya'
+
+2022-05-19 10:25:07 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.Spinner (7)"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner (7)'
+
+2022-05-19 10:25:07 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:25:07 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Spinner (7)'
+
+2022-05-19 10:25:07 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Comprehensive"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Comprehensive'
+
+2022-05-19 10:25:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:25:10 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.CheckedTextView - Comprehensive'
+
+2022-05-19 10:25:10 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:25:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:25:12 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Simulasi Kredit 3" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:25:13 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:25:14 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruSimulasi Kredit 3.png]]
+
+2022-05-19 10:25:14 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.Button - Kalkulasi"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Button - Kalkulasi'
+
+2022-05-19 10:25:14 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:25:14 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Button - Kalkulasi'
+
+2022-05-19 10:25:14 - [TEST_STEP][PASSED] - delay(4, STOP_ON_FAILURE): Delayed 4 second(s)
+
+2022-05-19 10:25:18 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2022-05-19 10:25:18 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Simulasi Kredit 4" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:25:20 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:25:20 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruSimulasi Kredit 4.png]]
+
+2022-05-19 10:25:20 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.ImageButton"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.ImageButton'
+
+2022-05-19 10:25:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:25:21 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.ImageButton'
+
+2022-05-19 10:25:21 - [TEST_STEP][PASSED] - delay(4, STOP_ON_FAILURE): Delayed 4 second(s)
+
+2022-05-19 10:25:25 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2022-05-19 10:25:25 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Simulasi Kredit 5" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:25:27 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:25:27 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruSimulasi Kredit 5.png]]
+
+2022-05-19 10:25:27 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Simulasi Kredit 1/android.widget.Button - Apply Now"), 0): Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Button - Apply Now'
+
+2022-05-19 10:25:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:25:28 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Simulasi Kredit 1/android.widget.Button - Apply Now'
+
+2022-05-19 10:25:28 - [TEST_STEP][PASSED] - delay(1, STOP_ON_FAILURE): Delayed 1 second(s)
+
+2022-05-19 10:25:29 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-19 10:25:29 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Simulasi Kredit 6" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:25:31 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:25:31 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruSimulasi Kredit 6.png]]
+
+2022-05-19 10:25:31 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2022-05-19 10:25:32 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Marketer/Simulasi Kredit Baru/3. Upload File" time="226.49" classname="Test Cases/Marketer/Simulasi Kredit Baru/3. Upload File" status="PASSED">
+         <system-out><![CDATA[2022-05-19 10:25:32 - [TEST_CASE][PASSED] - Test Cases/Marketer/Simulasi Kredit Baru/3. Upload File: Test Cases/Marketer/Simulasi Kredit Baru/3. Upload File
+
+2022-05-19 10:25:33 - [TEST_STEP][PASSED] - baseDir = System.getProperty("user.dir"): null
+
+2022-05-19 10:25:33 - [TEST_STEP][PASSED] - startExistingApplication("bcaf.crm.kkb.saleskit"): Starting app with application ID: 'bcaf.crm.kkb.saleskit'
+
+2022-05-19 10:25:36 - [MESSAGE][INFO] - Appium server started on port 63,791
+
+2022-05-19 10:25:48 - [MESSAGE][PASSED] - Starting app with application ID: 'bcaf.crm.kkb.saleskit'
+
+2022-05-19 10:25:48 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:25:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:25:50 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Upload File 1" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:25:52 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:25:52 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruUpload File 1.png]]
+
+2022-05-19 10:25:52 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.ImageView"), 0): Tapped on element 'Object Repository/Upload File/android.widget.ImageView'
+
+2022-05-19 10:25:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:25:53 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.ImageView'
+
+2022-05-19 10:25:53 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.Button - GALERI"), 0): Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:25:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:25:54 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:25:54 - [TEST_STEP][PASSED] - scrollToText("Upload File"): Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:26:08 - [MESSAGE][PASSED] - Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:26:08 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.ImageView (1)"), 0): Tapped on element 'Object Repository/Upload File/android.widget.ImageView (1)'
+
+2022-05-19 10:26:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:26:09 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.ImageView (1)'
+
+2022-05-19 10:26:09 - [TEST_STEP][PASSED] - tap(findTestObject("Upload File/android.widget.FrameLayout 1 - KTP"), 0): Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 1 - KTP'
+
+2022-05-19 10:26:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:26:10 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 1 - KTP'
+
+2022-05-19 10:26:10 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.ImageView (2)"), 0): Tapped on element 'Object Repository/Upload File/android.widget.ImageView (2)'
+
+2022-05-19 10:26:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:26:12 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.ImageView (2)'
+
+2022-05-19 10:26:12 - [TEST_STEP][PASSED] - tap(findTestObject("Upload File/android.widget.Button - GALERI"), 0): Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:26:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:26:13 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:26:13 - [TEST_STEP][PASSED] - scrollToText("Upload File"): Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:26:25 - [MESSAGE][PASSED] - Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:26:25 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.ImageView (3)"), 0): Tapped on element 'Object Repository/Upload File/android.widget.ImageView (3)'
+
+2022-05-19 10:26:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:26:26 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.ImageView (3)'
+
+2022-05-19 10:26:26 - [TEST_STEP][PASSED] - tap(findTestObject("Upload File/android.widget.FrameLayout 2 - KTP Pasangan"), 0): Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 2 - KTP Pasangan'
+
+2022-05-19 10:26:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:26:27 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 2 - KTP Pasangan'
+
+2022-05-19 10:26:27 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:26:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:26:29 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Upload File 2" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:26:33 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:26:34 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruUpload File 2.png]]
+
+2022-05-19 10:26:34 - [TEST_STEP][PASSED] - scrollToText("NPWP"): Scrolling to text 'NPWP' successfully
+
+2022-05-19 10:26:38 - [MESSAGE][PASSED] - Scrolling to text 'NPWP' successfully
+
+2022-05-19 10:26:38 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.ImageView (4)"), 0): Tapped on element 'Object Repository/Upload File/android.widget.ImageView (4)'
+
+2022-05-19 10:26:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:26:39 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.ImageView (4)'
+
+2022-05-19 10:26:39 - [TEST_STEP][PASSED] - tap(findTestObject("Upload File/android.widget.Button - GALERI"), 0): Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:26:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:26:40 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:26:40 - [TEST_STEP][PASSED] - scrollToText("Upload File"): Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:26:51 - [MESSAGE][PASSED] - Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:26:51 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.ImageView (5)"), 0): Tapped on element 'Object Repository/Upload File/android.widget.ImageView (5)'
+
+2022-05-19 10:26:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:26:52 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.ImageView (5)'
+
+2022-05-19 10:26:52 - [TEST_STEP][PASSED] - tap(findTestObject("Upload File/android.widget.FrameLayout 3 KK"), 0): Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 3 KK'
+
+2022-05-19 10:26:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:26:54 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 3 KK'
+
+2022-05-19 10:26:54 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.view.ViewGroup"), 0): Tapped on element 'Object Repository/Upload File/android.view.ViewGroup'
+
+2022-05-19 10:26:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:26:55 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.view.ViewGroup'
+
+2022-05-19 10:26:55 - [TEST_STEP][PASSED] - tap(findTestObject("Upload File/android.widget.Button - GALERI"), 0): Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:26:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:26:56 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:26:56 - [TEST_STEP][PASSED] - scrollToText("Upload File"): Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:27:09 - [MESSAGE][PASSED] - Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:27:09 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.ImageView (6)"), 0): Tapped on element 'Object Repository/Upload File/android.widget.ImageView (6)'
+
+2022-05-19 10:27:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:27:10 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.ImageView (6)'
+
+2022-05-19 10:27:10 - [TEST_STEP][PASSED] - tap(findTestObject("Upload File/android.widget.FrameLayout 4 - NPWP"), 0): Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 4 - NPWP'
+
+2022-05-19 10:27:10 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:27:11 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 4 - NPWP'
+
+2022-05-19 10:27:11 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:27:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:27:13 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Upload File 3" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:27:18 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:27:18 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruUpload File 3.png]]
+
+2022-05-19 10:27:18 - [TEST_STEP][PASSED] - scrollToText("Bukti Rumah"): Scrolling to text 'Bukti Rumah' successfully
+
+2022-05-19 10:27:26 - [MESSAGE][PASSED] - Scrolling to text 'Bukti Rumah' successfully
+
+2022-05-19 10:27:26 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.ImageView (7)"), 0): Tapped on element 'Object Repository/Upload File/android.widget.ImageView (7)'
+
+2022-05-19 10:27:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:27:27 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.ImageView (7)'
+
+2022-05-19 10:27:27 - [TEST_STEP][PASSED] - tap(findTestObject("Upload File/android.widget.Button - GALERI"), 0): Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:27:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:27:29 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:27:29 - [TEST_STEP][PASSED] - scrollToText("Upload File"): Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:27:40 - [MESSAGE][PASSED] - Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:27:40 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.ImageView (8)"), 0): Tapped on element 'Object Repository/Upload File/android.widget.ImageView (8)'
+
+2022-05-19 10:27:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:27:41 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.ImageView (8)'
+
+2022-05-19 10:27:41 - [TEST_STEP][PASSED] - tap(findTestObject("Upload File/android.widget.FrameLayout 5 - Slip Gaji"), 0): Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 5 - Slip Gaji'
+
+2022-05-19 10:27:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:27:43 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 5 - Slip Gaji'
+
+2022-05-19 10:27:43 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.ImageView (9)"), 0): Tapped on element 'Object Repository/Upload File/android.widget.ImageView (9)'
+
+2022-05-19 10:27:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:27:44 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.ImageView (9)'
+
+2022-05-19 10:27:44 - [TEST_STEP][PASSED] - tap(findTestObject("Upload File/android.widget.Button - GALERI"), 0): Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:27:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:27:45 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:27:45 - [TEST_STEP][PASSED] - scrollToText("Upload File"): Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:27:57 - [MESSAGE][PASSED] - Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:27:57 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.ImageView (10)"), 0): Tapped on element 'Object Repository/Upload File/android.widget.ImageView (10)'
+
+2022-05-19 10:27:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:27:57 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.ImageView (10)'
+
+2022-05-19 10:27:57 - [TEST_STEP][PASSED] - tap(findTestObject("Upload File/android.widget.FrameLayout 6 - Rumah"), 0): Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 6 - Rumah'
+
+2022-05-19 10:27:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:27:59 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 6 - Rumah'
+
+2022-05-19 10:27:59 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:28:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:28:01 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Upload File 4" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:28:03 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:28:04 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruUpload File 4.png]]
+
+2022-05-19 10:28:04 - [TEST_STEP][PASSED] - scrollToText("BPKB"): Scrolling to text 'BPKB' successfully
+
+2022-05-19 10:28:16 - [MESSAGE][PASSED] - Scrolling to text 'BPKB' successfully
+
+2022-05-19 10:28:16 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.ImageView (11)"), 0): Tapped on element 'Object Repository/Upload File/android.widget.ImageView (11)'
+
+2022-05-19 10:28:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:28:17 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.ImageView (11)'
+
+2022-05-19 10:28:17 - [TEST_STEP][PASSED] - tap(findTestObject("Upload File/android.widget.Button - GALERI"), 0): Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:28:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:28:18 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:28:18 - [TEST_STEP][PASSED] - scrollToText("Upload File"): Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:28:30 - [MESSAGE][PASSED] - Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:28:30 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.ImageView (12)"), 0): Tapped on element 'Object Repository/Upload File/android.widget.ImageView (12)'
+
+2022-05-19 10:28:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:28:31 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.ImageView (12)'
+
+2022-05-19 10:28:31 - [TEST_STEP][PASSED] - tap(findTestObject("Upload File/android.widget.FrameLayout 7 - Buku Tabungan"), 0): Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 7 - Buku Tabungan'
+
+2022-05-19 10:28:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:28:32 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 7 - Buku Tabungan'
+
+2022-05-19 10:28:32 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:28:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:28:34 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Upload File 5" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:28:36 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:28:37 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruUpload File 5.png]]
+
+2022-05-19 10:28:37 - [TEST_STEP][PASSED] - scrollToText("Lanjut"): Scrolling to text 'Lanjut' successfully
+
+2022-05-19 10:28:54 - [MESSAGE][PASSED] - Scrolling to text 'Lanjut' successfully
+
+2022-05-19 10:28:54 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.ImageView (13)"), 0): Tapped on element 'Object Repository/Upload File/android.widget.ImageView (13)'
+
+2022-05-19 10:28:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:28:55 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.ImageView (13)'
+
+2022-05-19 10:28:55 - [TEST_STEP][PASSED] - tap(findTestObject("Upload File/android.widget.Button - GALERI"), 0): Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:28:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:28:56 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.Button - GALERI'
+
+2022-05-19 10:28:56 - [TEST_STEP][PASSED] - scrollToText("Upload File"): Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:29:09 - [MESSAGE][PASSED] - Scrolling to text 'Upload File' successfully
+
+2022-05-19 10:29:09 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.ImageView (14)"), 0): Tapped on element 'Object Repository/Upload File/android.widget.ImageView (14)'
+
+2022-05-19 10:29:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:29:09 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.ImageView (14)'
+
+2022-05-19 10:29:09 - [TEST_STEP][PASSED] - tap(findTestObject("Upload File/android.widget.FrameLayout 8 - BPKB"), 0): Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 8 - BPKB'
+
+2022-05-19 10:29:10 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:29:11 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.FrameLayout 8 - BPKB'
+
+2022-05-19 10:29:11 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:29:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:29:13 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Upload File 6" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:29:16 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:29:16 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruUpload File 6.png]]
+
+2022-05-19 10:29:16 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Upload File/android.widget.Button - Lanjut"), 0): Tapped on element 'Object Repository/Upload File/android.widget.Button - Lanjut'
+
+2022-05-19 10:29:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:29:18 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Upload File/android.widget.Button - Lanjut'
+
+2022-05-19 10:29:18 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2022-05-19 10:29:19 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Marketer/Simulasi Kredit Baru/4. Data Konsumen" time="58.266" classname="Test Cases/Marketer/Simulasi Kredit Baru/4. Data Konsumen" status="PASSED">
+         <system-out><![CDATA[2022-05-19 10:29:19 - [TEST_CASE][PASSED] - Test Cases/Marketer/Simulasi Kredit Baru/4. Data Konsumen: Test Cases/Marketer/Simulasi Kredit Baru/4. Data Konsumen
+
+2022-05-19 10:29:19 - [TEST_STEP][PASSED] - baseDir = System.getProperty("user.dir"): null
+
+2022-05-19 10:29:19 - [TEST_STEP][PASSED] - startExistingApplication("bcaf.crm.kkb.saleskit"): Starting app with application ID: 'bcaf.crm.kkb.saleskit'
+
+2022-05-19 10:29:22 - [MESSAGE][INFO] - Appium server started on port 63,980
+
+2022-05-19 10:29:35 - [MESSAGE][PASSED] - Starting app with application ID: 'bcaf.crm.kkb.saleskit'
+
+2022-05-19 10:29:35 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:29:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:29:37 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Data Konsumen 1" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:29:38 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:29:39 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruData Konsumen 1.png]]
+
+2022-05-19 10:29:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Konsumen/android.widget.EditText"), "3201241107690002", 0): Text '3201241107690002' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText'
+
+2022-05-19 10:29:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:29:40 - [MESSAGE][PASSED] - Text '3201241107690002' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText'
+
+2022-05-19 10:29:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Konsumen/android.widget.EditText (1)"), "LUKMAN WIJAYA", 0): Text 'LUKMAN WIJAYA' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (1)'
+
+2022-05-19 10:29:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:29:42 - [MESSAGE][PASSED] - Text 'LUKMAN WIJAYA' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (1)'
+
+2022-05-19 10:29:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Konsumen/android.widget.EditText (2)"), "13-03-1989", 0): Text '13-03-1989' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (2)'
+
+2022-05-19 10:29:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:29:44 - [MESSAGE][PASSED] - Text '13-03-1989' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (2)'
+
+2022-05-19 10:29:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Konsumen/android.widget.EditText (3)"), "JL. RAYA CISEENG NO.12 BLOK A", 0): Text 'JL. RAYA CISEENG NO.12 BLOK A' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (3)'
+
+2022-05-19 10:29:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:29:46 - [MESSAGE][PASSED] - Text 'JL. RAYA CISEENG NO.12 BLOK A' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (3)'
+
+2022-05-19 10:29:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Konsumen/android.widget.EditText (4)"), "JAWA BARAT", 0): Text 'JAWA BARAT' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (4)'
+
+2022-05-19 10:29:46 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:29:47 - [MESSAGE][PASSED] - Text 'JAWA BARAT' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (4)'
+
+2022-05-19 10:29:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Konsumen/android.widget.EditText (5)"), "BOGOR", 0): Text 'BOGOR' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (5)'
+
+2022-05-19 10:29:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:29:49 - [MESSAGE][PASSED] - Text 'BOGOR' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (5)'
+
+2022-05-19 10:29:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Konsumen/android.widget.EditText (6)"), "CISEENG", 0): Text 'CISEENG' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (6)'
+
+2022-05-19 10:29:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:29:50 - [MESSAGE][PASSED] - Text 'CISEENG' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (6)'
+
+2022-05-19 10:29:50 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:29:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:29:52 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Data Konsumen 2" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:29:54 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:29:54 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruData Konsumen 2.png]]
+
+2022-05-19 10:29:54 - [TEST_STEP][PASSED] - scrollToText("Lanjut"): Scrolling to text 'Lanjut' successfully
+
+2022-05-19 10:29:59 - [MESSAGE][PASSED] - Scrolling to text 'Lanjut' successfully
+
+2022-05-19 10:29:59 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Konsumen/android.widget.EditText (7)"), "16660", 0): Text '16660' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (7)'
+
+2022-05-19 10:29:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:30:00 - [MESSAGE][PASSED] - Text '16660' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (7)'
+
+2022-05-19 10:30:00 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Konsumen/android.widget.EditText (8)"), "081283490030", 0): Text '081283490030' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (8)'
+
+2022-05-19 10:30:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:30:01 - [MESSAGE][PASSED] - Text '081283490030' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (8)'
+
+2022-05-19 10:30:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Konsumen/android.widget.EditText (9)"), "lukman.wijaya@gmail.com", 0): Text 'lukman.wijaya@gmail.com' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (9)'
+
+2022-05-19 10:30:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:30:03 - [MESSAGE][PASSED] - Text 'lukman.wijaya@gmail.com' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (9)'
+
+2022-05-19 10:30:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Konsumen/android.widget.EditText (10)"), "0880562167", 0): Text '0880562167' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (10)'
+
+2022-05-19 10:30:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:30:04 - [MESSAGE][PASSED] - Text '0880562167' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (10)'
+
+2022-05-19 10:30:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Konsumen/android.widget.EditText (11)"), "Testing 1", 0): Text 'Testing 1' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (11)'
+
+2022-05-19 10:30:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:30:06 - [MESSAGE][PASSED] - Text 'Testing 1' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (11)'
+
+2022-05-19 10:30:06 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Data Konsumen/android.widget.Button - Lanjut"), 0): Tapped on element 'Object Repository/Data Konsumen/android.widget.Button - Lanjut'
+
+2022-05-19 10:30:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:30:08 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Data Konsumen/android.widget.Button - Lanjut'
+
+2022-05-19 10:30:08 - [TEST_STEP][PASSED] - setText(findTestObject("Data Konsumen/android.widget.EditText - Nik Pasangan"), "3175070101909999", 0): Text '3175070101909999' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText - Nik Pasangan'
+
+2022-05-19 10:30:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:30:09 - [MESSAGE][PASSED] - Text '3175070101909999' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText - Nik Pasangan'
+
+2022-05-19 10:30:09 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Konsumen/android.widget.EditText (13)"), "BILLY BUMBLEBEE SIFULAN", 0): Text 'BILLY BUMBLEBEE SIFULAN' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (13)'
+
+2022-05-19 10:30:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:30:10 - [MESSAGE][PASSED] - Text 'BILLY BUMBLEBEE SIFULAN' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (13)'
+
+2022-05-19 10:30:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Konsumen/android.widget.EditText (14)"), "02-Jan-1990", 0): Text '02-Jan-1990' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (14)'
+
+2022-05-19 10:30:10 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:30:11 - [MESSAGE][PASSED] - Text '02-Jan-1990' has been set to element 'Object Repository/Data Konsumen/android.widget.EditText (14)'
+
+2022-05-19 10:30:11 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:30:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:30:13 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Data Konsumen 3" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:30:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:30:15 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruData Konsumen 3.png]]
+
+2022-05-19 10:30:15 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Data Konsumen/android.widget.Button - Lanjut (1)"), 0): Tapped on element 'Object Repository/Data Konsumen/android.widget.Button - Lanjut (1)'
+
+2022-05-19 10:30:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:30:16 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Data Konsumen/android.widget.Button - Lanjut (1)'
+
+2022-05-19 10:30:16 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2022-05-19 10:30:17 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Marketer/Simulasi Kredit Baru/5. Data Kendaraan - Submit" time="218.605" classname="Test Cases/Marketer/Simulasi Kredit Baru/5. Data Kendaraan - Submit" status="PASSED">
+         <system-out><![CDATA[2022-05-19 10:30:17 - [TEST_CASE][PASSED] - Test Cases/Marketer/Simulasi Kredit Baru/5. Data Kendaraan - Submit: Test Cases/Marketer/Simulasi Kredit Baru/5. Data Kendaraan - Submit
+
+2022-05-19 10:30:18 - [TEST_STEP][PASSED] - baseDir = System.getProperty("user.dir"): null
+
+2022-05-19 10:30:18 - [TEST_STEP][PASSED] - startExistingApplication("bcaf.crm.kkb.saleskit"): Starting app with application ID: 'bcaf.crm.kkb.saleskit'
+
+2022-05-19 10:30:20 - [MESSAGE][INFO] - Appium server started on port 64,110
+
+2022-05-19 10:30:34 - [MESSAGE][PASSED] - Starting app with application ID: 'bcaf.crm.kkb.saleskit'
+
+2022-05-19 10:30:34 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:30:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:30:36 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Data Kendaraan 1" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:30:38 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:30:38 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruData Kendaraan 1.png]]
+
+2022-05-19 10:30:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Kendaraan - Submit/android.widget.EditText"), "HONDA", 0): Text 'HONDA' has been set to element 'Object Repository/Data Kendaraan - Submit/android.widget.EditText'
+
+2022-05-19 10:30:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:30:39 - [MESSAGE][PASSED] - Text 'HONDA' has been set to element 'Object Repository/Data Kendaraan - Submit/android.widget.EditText'
+
+2022-05-19 10:30:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Kendaraan - Submit/android.widget.EditText (1)"), "ALL NEW CIVIC", 0): Text 'ALL NEW CIVIC' has been set to element 'Object Repository/Data Kendaraan - Submit/android.widget.EditText (1)'
+
+2022-05-19 10:30:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:30:41 - [MESSAGE][PASSED] - Text 'ALL NEW CIVIC' has been set to element 'Object Repository/Data Kendaraan - Submit/android.widget.EditText (1)'
+
+2022-05-19 10:30:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Data Kendaraan - Submit/android.widget.EditText (2)"), "R - KARBON", 0): Text 'R - KARBON' has been set to element 'Object Repository/Data Kendaraan - Submit/android.widget.EditText (2)'
+
+2022-05-19 10:30:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:30:43 - [MESSAGE][PASSED] - Text 'R - KARBON' has been set to element 'Object Repository/Data Kendaraan - Submit/android.widget.EditText (2)'
+
+2022-05-19 10:30:43 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:30:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:30:45 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Data Kendaraan 2" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:30:46 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:30:47 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruData Kendaraan 2.png]]
+
+2022-05-19 10:30:47 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Data Kendaraan - Submit/android.widget.Button - Submit"), 0): Tapped on element 'Object Repository/Data Kendaraan - Submit/android.widget.Button - Submit'
+
+2022-05-19 10:30:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:30:48 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Data Kendaraan - Submit/android.widget.Button - Submit'
+
+2022-05-19 10:30:48 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2022-05-19 10:30:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-19 10:30:50 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Data Kendaraan 3" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:30:51 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:30:52 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruData Kendaraan 3.png]]
+
+2022-05-19 10:30:52 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Data Kendaraan - Submit/android.widget.Button - SUBMIT (1)"), 0): Tapped on element 'Object Repository/Data Kendaraan - Submit/android.widget.Button - SUBMIT (1)'
+
+2022-05-19 10:30:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-05-19 10:30:52 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Data Kendaraan - Submit/android.widget.Button - SUBMIT (1)'
+
+2022-05-19 10:30:52 - [TEST_STEP][PASSED] - delay(180, STOP_ON_FAILURE): Delayed 180 second(s)
+
+2022-05-19 10:33:52 - [MESSAGE][PASSED] - Delayed 180 second(s)
+
+2022-05-19 10:33:52 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint(baseDir + sspathkkbsk + "Data Kendaraan 4" + ".png", STOP_ON_FAILURE): Screenshot is taken
+
+2022-05-19 10:33:54 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-19 10:33:55 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\Users\Nia Yusniati\Git_Asa\KKBSK\Screenshoot\Marketer\keyes\keyes-Aplikasi BaruData Kendaraan 4.png]]
+
+2022-05-19 10:33:55 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2022-05-19 10:33:55 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-05-19 10:24:06 - [TEST_SUITE][PASSED] - Aplikasi Baru: Test Cases/Marketer/Simulasi Kredit Baru/5. Data Kendaraan - Submit]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
